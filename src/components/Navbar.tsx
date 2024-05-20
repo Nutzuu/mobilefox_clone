@@ -5,7 +5,8 @@ import { ArrowRight } from 'lucide-react'
 
 const Navbar = async () => {
   
-  const user = undefined
+  const user = undefined;
+  const isAdmin = false;
 
 
 
